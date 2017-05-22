@@ -16,11 +16,11 @@ Got it! The order matters.
 
 Order in struts.xml matters:
 
-result-types?
-interceptors?
-default-interceptor-ref?
-default-action- ref?
-default-class-ref?
-global-results?
-global-exception-mappings?
-action*
+1.result-types?
+2.interceptors?
+3.default-interceptor-ref?
+4.default-action- ref?
+5.default-class-ref?
+6.global-results?
+7.global-exception-mappings?
+8.action*
